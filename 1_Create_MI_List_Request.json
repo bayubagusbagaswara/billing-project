@@ -4,20 +4,45 @@
   "investmentManagementRequestList": [
     {
       "code": "A001",
-      "name": "",
-      "email": "mibayu@mail.com",
-      "address1": "Gd Bursa Efek",
-      "address2": "Jl Jendral Sudirman",
-      "address3": "Senayan",
+      "name": "PT BNI Asset Management",
+      "email": "bni@mail.com",
+      "address1": "Centennial Tower, Lantai 19",
+      "address2": "Jl. Jendral Gatot Subroto Kav. 24-25",
+      "address3": "",
       "address4": "Jakarta Selatan"
     },
     {
-      "id": "",
       "code": "A002",
-      "name": "MI Bagus",
-      "email": "mibagus@mail.com",
-      "address1": "Gd Bursa Efek",
-      "address2": "Jl Jendral Sudirman",
+      "name": "PT Pacific Capital Investment",
+      "email": "pacific@mail.com",
+      "address1": "Menara Jamsostek Menara Utara Lantai 12A",
+      "address2": "Jl. Jendral Gatot Subroto No. 38",
+      "address3": "",
+      "address4": "Jakarta Selatan"
+    },
+    {
+      "code": "A003",
+      "name": "PT Setiabudi Investment Management",
+      "email": "setiabudi@mail.com",
+      "address1": "Setiabudi Atrium Lt. 5 Suite 501A",
+      "address2": "Jl. HR Rasuna Said Kav. 62",
+      "address3": "",
+      "address4": "Jakarta Selatan"
+    },
+    {
+      "code": "A004",
+      "name": "PT Syailendra Capital",
+      "email": "syailendra@mail.com",
+      "address1": "Office District 8 Tower Treasury Lt. 39 Unit 39a SCBD Lot 28",
+      "address2": "Jl. Jendral Sudirma Kav. 52-53",
+      "address3": "",
+      "address4": "Jakarta Selatan"
+    },
+    {
+      "code": "A005",
+      "name": "PT Mandiri Manajemen Investasi",
+      "address1": "Menara Mandiri II, Lt. 15",
+      "address2": "Jl. Jenderal Sudirman No. 54-55",
       "address3": "Senayan",
       "address4": "Jakarta Selatan"
     }
