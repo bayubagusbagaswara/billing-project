@@ -1,0 +1,28 @@
+{
+  "approveId": "v00027777",
+  "approveIPAddress": "localhost:8081",
+  "investmentManagementRequestList": [
+    {
+      "dataChangeId": "10",
+      "id": "",
+      "code": "A001",
+      "name": "MI Bayu",
+      "email": "mibayu@mail.com",
+      "address1": "Gd Bursa Efek",
+      "address2": "Jl Jendral Sudirman",
+      "address3": "Senayan",
+      "address4": "Jakarta Selatan"
+    },
+    {
+      "dataChangeId": "11",
+      "id": "",
+      "code": "A002",
+      "name": "MI Bagus",
+      "email": "mibagus@mail.com",
+      "address1": "Gd Bursa Efek",
+      "address2": "Jl Jendral Sudirman",
+      "address3": "Senayan",
+      "address4": "Jakarta Selatan"
+    }
+  ]
+}

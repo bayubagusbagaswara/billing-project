@@ -1,0 +1,25 @@
+{
+  "inputId": "v00028684",
+  "inputIPAddress": "localhost:8080",
+  "investmentManagementRequestList": [
+    {
+      "code": "A001",
+      "name": "",
+      "email": "mibayu@mail.com",
+      "address1": "Gd Bursa Efek",
+      "address2": "Jl Jendral Sudirman",
+      "address3": "Senayan",
+      "address4": "Jakarta Selatan"
+    },
+    {
+      "id": "",
+      "code": "A002",
+      "name": "MI Bagus",
+      "email": "mibagus@mail.com",
+      "address1": "Gd Bursa Efek",
+      "address2": "Jl Jendral Sudirman",
+      "address3": "Senayan",
+      "address4": "Jakarta Selatan"
+    }
+  ]
+}
