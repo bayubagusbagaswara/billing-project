@@ -1,8 +1,42 @@
-//  harus ada di sk transaction
 [
   {
     "No": 1,
     "AID": "15ACP2",
     "Cus Fee (Gross)": 294410.17
+  },
+  {
+    "No": 2,
+    "AID": "24SDOU",
+    "Cus Fee (Gross)": 75504227.88
+  },
+  {
+    "No": 3,
+    "AID": "21PEFF",
+    "Cus Fee (Gross)": 1755557.94
+  },
+  {
+    "No": 4,
+    "AID": "21BNIS",
+    "Cus Fee (Gross)": 114975503.53
+  },
+  {
+    "No": 5,
+    "AID": "15YKP4",
+    "Cus Fee (Gross)": 868907.06
+  },
+  {
+    "No": 6,
+    "AID": "21SMUN",
+    "Cus Fee (Gross)": 3578078.81
+  },
+  {
+    "No": 7,
+    "AID": "23MT13",
+    "Cus Fee (Gross)": 2648300.26
+  },
+  {
+    "No": 8,
+    "AID": "23MT15",
+    "Cus Fee (Gross)": 1572454.47
   }
 ]
