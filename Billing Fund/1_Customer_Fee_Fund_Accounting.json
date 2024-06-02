@@ -1,0 +1,662 @@
+[
+  {
+    "No": 1,
+    "AID": "15ACP2",
+    "Cus Fee (Gross)": 294410.17
+  },
+  {
+    "No": 2,
+    "AID": "15AHS2",
+    "Cus Fee (Gross)": 340178.01
+  },
+  {
+    "No": 3,
+    "AID": "15AMGP",
+    "Cus Fee (Gross)": 3837215.87
+  },
+  {
+    "No": 4,
+    "AID": "15AMGS",
+    "Cus Fee (Gross)": 1559812.63
+  },
+  {
+    "No": 5,
+    "AID": "15ASBP",
+    "Cus Fee (Gross)": 2630555.34
+  },
+  {
+    "No": 6,
+    "AID": "15ASC2",
+    "Cus Fee (Gross)": 359504.77
+  },
+  {
+    "No": 7,
+    "AID": "15ATTI",
+    "Cus Fee (Gross)": 348411.17
+  },
+  {
+    "No": 8,
+    "AID": "15BALI",
+    "Cus Fee (Gross)": 20588.22
+  },
+  {
+    "No": 9,
+    "AID": "15BOS2",
+    "Cus Fee (Gross)": 1338853.13
+  },
+  {
+    "No": 10,
+    "AID": "15BOS3",
+    "Cus Fee (Gross)": 1021203.26
+  },
+  {
+    "No": 11,
+    "AID": "15BOSU",
+    "Cus Fee (Gross)": 1059484.69
+  },
+  {
+    "No": 12,
+    "AID": "15BUSA",
+    "Cus Fee (Gross)": 411094.78
+  },
+  {
+    "No": 13,
+    "AID": "15CALI",
+    "Cus Fee (Gross)": 0
+  },
+  {
+    "No": 14,
+    "AID": "15CATI",
+    "Cus Fee (Gross)": 1107747.74
+  },
+  {
+    "No": 15,
+    "AID": "15CHAA",
+    "Cus Fee (Gross)": 232248.99
+  },
+  {
+    "No": 16,
+    "AID": "15CHAI",
+    "Cus Fee (Gross)": 552242.66
+  },
+  {
+    "No": 17,
+    "AID": "15CHAK",
+    "Cus Fee (Gross)": 305400.32
+  },
+  {
+    "No": 18,
+    "AID": "15CLSP",
+    "Cus Fee (Gross)": 757168.84
+  },
+  {
+    "No": 19,
+    "AID": "15CPGF",
+    "Cus Fee (Gross)": 47535313.53
+  },
+  {
+    "No": 20,
+    "AID": "15DAP2",
+    "Cus Fee (Gross)": 1210640.17
+  },
+  {
+    "No": 21,
+    "AID": "15DAPS",
+    "Cus Fee (Gross)": 770067.21
+  },
+  {
+    "No": 22,
+    "AID": "15DIYO",
+    "Cus Fee (Gross)": 356859.09
+  },
+  {
+    "No": 23,
+    "AID": "15DMMP",
+    "Cus Fee (Gross)": 26782.03
+  },
+  {
+    "No": 24,
+    "AID": "15DPC2",
+    "Cus Fee (Gross)": 1156461.12
+  },
+  {
+    "No": 25,
+    "AID": "15DPCE",
+    "Cus Fee (Gross)": 32693.48
+  },
+  {
+    "No": 26,
+    "AID": "15DPCF",
+    "Cus Fee (Gross)": 34478.2
+  },
+  {
+    "No": 27,
+    "AID": "15DPCM",
+    "Cus Fee (Gross)": 349572.49
+  },
+  {
+    "No": 28,
+    "AID": "15DPES",
+    "Cus Fee (Gross)": 1363109.81
+  },
+  {
+    "No": 29,
+    "AID": "15DPUE",
+    "Cus Fee (Gross)": 175750.83
+  },
+  {
+    "No": 30,
+    "AID": "15DPUF",
+    "Cus Fee (Gross)": 27973.72
+  },
+  {
+    "No": 31,
+    "AID": "15DPUM",
+    "Cus Fee (Gross)": 690052.32
+  },
+  {
+    "No": 32,
+    "AID": "15ELIS",
+    "Cus Fee (Gross)": 828385.57
+  },
+  {
+    "No": 33,
+    "AID": "15ERWA",
+    "Cus Fee (Gross)": 349421.96
+  },
+  {
+    "No": 34,
+    "AID": "15FROW",
+    "Cus Fee (Gross)": 2222631.53
+  },
+  {
+    "No": 35,
+    "AID": "15HABU",
+    "Cus Fee (Gross)": 381739.21
+  },
+  {
+    "No": 36,
+    "AID": "15HAGO",
+    "Cus Fee (Gross)": 306903.99
+  },
+  {
+    "No": 37,
+    "AID": "15ILPA",
+    "Cus Fee (Gross)": 753814.24
+  },
+  {
+    "No": 38,
+    "AID": "15INGC",
+    "Cus Fee (Gross)": 26091163.68
+  },
+  {
+    "No": 39,
+    "AID": "15JATJ",
+    "Cus Fee (Gross)": 127012.2
+  },
+  {
+    "No": 40,
+    "AID": "15JEFF",
+    "Cus Fee (Gross)": 284140.05
+  },
+  {
+    "No": 41,
+    "AID": "15JOAL",
+    "Cus Fee (Gross)": 532622.83
+  },
+  {
+    "No": 42,
+    "AID": "15JONA",
+    "Cus Fee (Gross)": 523674.72
+  },
+  {
+    "No": 43,
+    "AID": "15JOWI",
+    "Cus Fee (Gross)": 975674.04
+  },
+  {
+    "No": 44,
+    "AID": "15JULI",
+    "Cus Fee (Gross)": 259183.59
+  },
+  {
+    "No": 45,
+    "AID": "15JUT2",
+    "Cus Fee (Gross)": 480053.43
+  },
+  {
+    "No": 46,
+    "AID": "15MAHE",
+    "Cus Fee (Gross)": 556463.3
+  },
+  {
+    "No": 47,
+    "AID": "15MANU",
+    "Cus Fee (Gross)": 2498284.65
+  },
+  {
+    "No": 48,
+    "AID": "15MATL",
+    "Cus Fee (Gross)": 370506.99
+  },
+  {
+    "No": 49,
+    "AID": "15MLAA",
+    "Cus Fee (Gross)": 58658.25
+  },
+  {
+    "No": 50,
+    "AID": "15MLAD",
+    "Cus Fee (Gross)": 398283.96
+  },
+  {
+    "No": 51,
+    "AID": "15MLAK",
+    "Cus Fee (Gross)": 175855.17
+  },
+  {
+    "No": 52,
+    "AID": "15MLDA",
+    "Cus Fee (Gross)": 519248.26
+  },
+  {
+    "No": 53,
+    "AID": "15MLDK",
+    "Cus Fee (Gross)": 504847.43
+  },
+  {
+    "No": 54,
+    "AID": "15MLDS",
+    "Cus Fee (Gross)": 522433.58
+  },
+  {
+    "No": 55,
+    "AID": "15PABS",
+    "Cus Fee (Gross)": 383428.96
+  },
+  {
+    "No": 56,
+    "AID": "15PCLI",
+    "Cus Fee (Gross)": 9863149.71
+  },
+  {
+    "No": 57,
+    "AID": "15PIN2",
+    "Cus Fee (Gross)": 631968.24
+  },
+  {
+    "No": 58,
+    "AID": "15PINS",
+    "Cus Fee (Gross)": 351803.58
+  },
+  {
+    "No": 59,
+    "AID": "15ROBW",
+    "Cus Fee (Gross)": 1354637.32
+  },
+  {
+    "No": 60,
+    "AID": "15ROOS",
+    "Cus Fee (Gross)": 339083.38
+  },
+  {
+    "No": 61,
+    "AID": "15RUD3",
+    "Cus Fee (Gross)": 1265956.29
+  },
+  {
+    "No": 62,
+    "AID": "15RUDY",
+    "Cus Fee (Gross)": 828386.3
+  },
+  {
+    "No": 63,
+    "AID": "15STK2",
+    "Cus Fee (Gross)": 354748.06
+  },
+  {
+    "No": 64,
+    "AID": "15SUA2",
+    "Cus Fee (Gross)": 633547.85
+  },
+  {
+    "No": 65,
+    "AID": "15SUA3",
+    "Cus Fee (Gross)": 747560.21
+  },
+  {
+    "No": 66,
+    "AID": "15SUA4",
+    "Cus Fee (Gross)": 608515.77
+  },
+  {
+    "No": 67,
+    "AID": "15TAWI",
+    "Cus Fee (Gross)": 396141.95
+  },
+  {
+    "No": 68,
+    "AID": "15TIKA",
+    "Cus Fee (Gross)": 465820.49
+  },
+  {
+    "No": 69,
+    "AID": "15TOMY",
+    "Cus Fee (Gross)": 188855.67
+  },
+  {
+    "No": 70,
+    "AID": "15TONY",
+    "Cus Fee (Gross)": 250495.6
+  },
+  {
+    "No": 71,
+    "AID": "15TSG2",
+    "Cus Fee (Gross)": 305343.33
+  },
+  {
+    "No": 72,
+    "AID": "15TSG3",
+    "Cus Fee (Gross)": 600100.28
+  },
+  {
+    "No": 73,
+    "AID": "15TSGK",
+    "Cus Fee (Gross)": 851195.08
+  },
+  {
+    "No": 74,
+    "AID": "15WONG",
+    "Cus Fee (Gross)": 620829.49
+  },
+  {
+    "No": 75,
+    "AID": "15YKP1",
+    "Cus Fee (Gross)": 1606302.1
+  },
+  {
+    "No": 76,
+    "AID": "15YKP4",
+    "Cus Fee (Gross)": 868907.06
+  },
+  {
+    "No": 77,
+    "AID": "15YKP5",
+    "Cus Fee (Gross)": 1898019.27
+  },
+  {
+    "No": 78,
+    "AID": "15YOTA",
+    "Cus Fee (Gross)": 1803357.3
+  },
+  {
+    "No": 79,
+    "AID": "21BNIS",
+    "Cus Fee (Gross)": 114975503.53
+  },
+  {
+    "No": 80,
+    "AID": "21CDOE",
+    "Cus Fee (Gross)": 2205550.86
+  },
+  {
+    "No": 81,
+    "AID": "21CDRC",
+    "Cus Fee (Gross)": 7513610.26
+  },
+  {
+    "No": 82,
+    "AID": "21CDSE",
+    "Cus Fee (Gross)": 1582669.27
+  },
+  {
+    "No": 83,
+    "AID": "21GEAF",
+    "Cus Fee (Gross)": 1004860.75
+  },
+  {
+    "No": 84,
+    "AID": "21MDEF",
+    "Cus Fee (Gross)": 5001949.96
+  },
+  {
+    "No": 85,
+    "AID": "21NSI2",
+    "Cus Fee (Gross)": 4598558.13
+  },
+  {
+    "No": 86,
+    "AID": "21PADE",
+    "Cus Fee (Gross)": 1498163.45
+  },
+  {
+    "No": 87,
+    "AID": "21PEFF",
+    "Cus Fee (Gross)": 1755557.94
+  },
+  {
+    "No": 88,
+    "AID": "21PEGF",
+    "Cus Fee (Gross)": 11752419.59
+  },
+  {
+    "No": 89,
+    "AID": "21PEOF",
+    "Cus Fee (Gross)": 2345944.17
+  },
+  {
+    "No": 90,
+    "AID": "21PEPF",
+    "Cus Fee (Gross)": 6856566.37
+  },
+  {
+    "No": 91,
+    "AID": "21PSS2",
+    "Cus Fee (Gross)": 4180148.2
+  },
+  {
+    "No": 92,
+    "AID": "21PSS3",
+    "Cus Fee (Gross)": 5325510.39
+  },
+  {
+    "No": 93,
+    "AID": "21RSDE",
+    "Cus Fee (Gross)": 0
+  },
+  {
+    "No": 94,
+    "AID": "21SEBK",
+    "Cus Fee (Gross)": 12439906
+  },
+  {
+    "No": 95,
+    "AID": "21SEDS",
+    "Cus Fee (Gross)": 1053420.14
+  },
+  {
+    "No": 96,
+    "AID": "21SEGG",
+    "Cus Fee (Gross)": 237929.1
+  },
+  {
+    "No": 97,
+    "AID": "21SMUN",
+    "Cus Fee (Gross)": 3578078.81
+  },
+  {
+    "No": 98,
+    "AID": "21VEQM",
+    "Cus Fee (Gross)": 3045209.29
+  },
+  {
+    "No": 99,
+    "AID": "21VPEF",
+    "Cus Fee (Gross)": 5049594.22
+  },
+  {
+    "No": 100,
+    "AID": "22CDSB",
+    "Cus Fee (Gross)": 538564.71
+  },
+  {
+    "No": 101,
+    "AID": "22MAMS",
+    "Cus Fee (Gross)": 92549.24
+  },
+  {
+    "No": 102,
+    "AID": "22MDBF",
+    "Cus Fee (Gross)": 7433710.34
+  },
+  {
+    "No": 103,
+    "AID": "22PBF3",
+    "Cus Fee (Gross)": 6981016.7
+  },
+  {
+    "No": 104,
+    "AID": "22PSNS",
+    "Cus Fee (Gross)": 369804.51
+  },
+  {
+    "No": 105,
+    "AID": "22SEDM",
+    "Cus Fee (Gross)": 608575.1
+  },
+  {
+    "No": 106,
+    "AID": "22SMBK",
+    "Cus Fee (Gross)": 853563.4
+  },
+  {
+    "No": 107,
+    "AID": "22VCDS",
+    "Cus Fee (Gross)": 6124.79
+  },
+  {
+    "No": 108,
+    "AID": "23BM39",
+    "Cus Fee (Gross)": 4863290.51
+  },
+  {
+    "No": 109,
+    "AID": "23CS10",
+    "Cus Fee (Gross)": 769016.66
+  },
+  {
+    "No": 110,
+    "AID": "23MT13",
+    "Cus Fee (Gross)": 2648300.26
+  },
+  {
+    "No": 111,
+    "AID": "23MT15",
+    "Cus Fee (Gross)": 1572454.47
+  },
+  {
+    "No": 112,
+    "AID": "23MT16",
+    "Cus Fee (Gross)": 1589925.08
+  },
+  {
+    "No": 113,
+    "AID": "23NP10",
+    "Cus Fee (Gross)": 10096807.71
+  },
+  {
+    "No": 114,
+    "AID": "23NUP9",
+    "Cus Fee (Gross)": 8497946.03
+  },
+  {
+    "No": 115,
+    "AID": "24CFIF",
+    "Cus Fee (Gross)": 32954977.39
+  },
+  {
+    "No": 116,
+    "AID": "24CSFI",
+    "Cus Fee (Gross)": 1319721.34
+  },
+  {
+    "No": 117,
+    "AID": "24FSFI",
+    "Cus Fee (Gross)": 926106.5
+  },
+  {
+    "No": 118,
+    "AID": "24SDOO",
+    "Cus Fee (Gross)": 1765091.57
+  },
+  {
+    "No": 119,
+    "AID": "24SDOU",
+    "Cus Fee (Gross)": 75504227.88
+  },
+  {
+    "No": 120,
+    "AID": "24SMDO",
+    "Cus Fee (Gross)": 18155745.42
+  },
+  {
+    "No": 121,
+    "AID": "24VONS",
+    "Cus Fee (Gross)": 5319074.15
+  },
+  {
+    "No": 122,
+    "AID": "25CMMF",
+    "Cus Fee (Gross)": 48627097.44
+  },
+  {
+    "No": 123,
+    "AID": "25CPCF",
+    "Cus Fee (Gross)": 177718.98
+  },
+  {
+    "No": 124,
+    "AID": "25CSMM",
+    "Cus Fee (Gross)": 4355938.93
+  },
+  {
+    "No": 125,
+    "AID": "25PAPU",
+    "Cus Fee (Gross)": 997700.37
+  },
+  {
+    "No": 126,
+    "AID": "25PCMM",
+    "Cus Fee (Gross)": 1124851.42
+  },
+  {
+    "No": 127,
+    "AID": "27PAGP",
+    "Cus Fee (Gross)": 9214333.71
+  },
+  {
+    "No": 128,
+    "AID": "27PNPN",
+    "Cus Fee (Gross)": 20691356.07
+  },
+  {
+    "No": 129,
+    "AID": "DANPRO",
+    "Cus Fee (Gross)": 3857968.46
+  },
+  {
+    "No": 130,
+    "AID": "GPBLMF",
+    "Cus Fee (Gross)": 1509772.56
+  },
+  {
+    "No": 131,
+    "AID": "RD6EKP",
+    "Cus Fee (Gross)": 21062106.77
+  },
+  {
+    "No": 132,
+    "AID": "RDPR",
+    "Cus Fee (Gross)": 2819571.4
+  }
+]
