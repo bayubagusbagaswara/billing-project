@@ -1,0 +1,53 @@
+{
+  "inputId": "",
+  "updateCustomerDataListRequests": [
+    {
+      "Customer Code": "",
+      "Sub Code": "",
+      "Customer Name": "",
+      "Billing Category": "",
+      "Billing Type": "",
+      "Billing Template": "",
+      "Currency": "",
+      "MI Code": "",
+      "Account": "",
+      "Account Name": "",
+      "Cost Center Debit": "",
+      "Cost Center": "",
+      "GL Account Hasil": "",
+      "Minimum Fee": "",
+      "Customer Safekeeping Fee": "",
+      "Transaction Handling": "",
+      "NPWP Number": "",
+      "NPWP Name": "",
+      "NPWP Address": "",
+      "KSEI Safe Code": "",
+      "Selling Agent": "",
+      "Is GL": ""
+    },
+    {
+      "Customer Code": "",
+      "Sub Code": "",
+      "Customer Name": "",
+      "Billing Category": "",
+      "Billing Type": "",
+      "Billing Template": "",
+      "Currency": "",
+      "MI Code": "",
+      "Account": "",
+      "Account Name": "",
+      "Cost Center Debit": "",
+      "Cost Center": "",
+      "GL Account Hasil": "",
+      "Minimum Fee": "",
+      "Customer Safekeeping Fee": "",
+      "Transaction Handling": "",
+      "NPWP Number": "",
+      "NPWP Name": "",
+      "NPWP Address": "",
+      "KSEI Safe Code": "",
+      "Selling Agent": "",
+      "Is GL": ""
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "inputId": "v00028684",
+  "createCustomerDataListRequests": [
+    {
+      "Customer Code": "C00001",
+      "Customer Name": "Bayu",
+      "Billing Category": "FUND",
+      "Billing Type": "TYPE_1",
+      "Billing Template": "CORE_TEMPLATE",
+      "Currency": "IDR",
+      "MI Code": "A003",
+      "Account": "123Q",
+      "Account Name": "Bayu B",
+      "Cost Center Debit": "12345",
+      "Cost Center": "1122",
+      "GL Account Hasil": "4455",
+      "Minimum Fee": "10000",
+      "Customer Safekeeping Fee": "0.3",
+      "Transaction Handling": "25000",
+      "NPWP Number": "12345",
+      "NPWP Name": "Bayu B",
+      "NPWP Address": "Kebayoran Baru",
+      "KSEI Safe Code": "",
+      "Selling Agent": "",
+      "Is GL": "true"
+    },
+    {
+      "Customer Code": "",
+      "Sub Code": "",
+      "Customer Name": "",
+      "Billing Category": "",
+      "Billing Type": "",
+      "Billing Template": "",
+      "Currency": "",
+      "MI Code": "",
+      "Account": "",
+      "Account Name": "",
+      "Cost Center Debit": "",
+      "Cost Center": "",
+      "GL Account Hasil": "",
+      "Minimum Fee": "",
+      "Customer Safekeeping Fee": "",
+      "Transaction Handling": "",
+      "NPWP Number": "",
+      "NPWP Name": "",
+      "NPWP Address": "",
+      "KSEI Safe Code": "",
+      "Selling Agent": "",
+      "Is GL": ""
+    }
+  ]
+}
